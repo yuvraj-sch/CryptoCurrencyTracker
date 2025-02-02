@@ -29,7 +29,6 @@ CryptoCurrency Tracker is a modern, responsive web application built with Next.j
 - Node.js (version 14 or later)
 - npm or yarn
 
-### Installation
-
-1. Clone the repository:
+### Link
+https://v0-cryptocurrency-tracker-sgywo2.vercel.app/
 
